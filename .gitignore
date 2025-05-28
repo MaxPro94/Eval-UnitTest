@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+TestResults/
+out/
+*.log
+
+# Dotnet artifacts
+*.dbmdl
+*.pdb
+*.cache
+*.ide
+
+# Npm/node (si jamais tu as du JS aussi)
+node_modules/
+
+# Mac/Linux
+.DS_Store
+*.swp
